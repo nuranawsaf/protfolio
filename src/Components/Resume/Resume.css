@@ -1,0 +1,20 @@
+.bg{
+    color: rgb(233, 233, 233);
+    background-color: #dc3545;
+    padding: 10px 200px 10px 200px;
+    border-radius: 8px;
+    margin-left: 420px;
+}
+.top{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cv-size img{
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 26%;
+}
+.top h1{
+    text-align: center;
+}
