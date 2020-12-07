@@ -1,0 +1,21 @@
+
+.work img{
+    width: 100%;
+}
+.half-width-9{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 700px;
+    margin-top: 200px;
+    margin-bottom: 500px;
+    text-align: center;
+}
+.logo-10{
+    margin-left: 650px;
+}
+.work h3{
+    text-align: center;
+    margin-top: 50px;
+}

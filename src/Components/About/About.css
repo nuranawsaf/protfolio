@@ -1,0 +1,36 @@
+.half-width{
+    width: 60%;
+    float: left;
+    margin-left: 60px;
+    padding-left: 2%;
+    text-align: center;
+    margin-top: 150px;
+}
+.half-width1 img{
+    width: 20%;
+    margin-left: 20px;
+    margin-top: 150px;
+}
+.txt{
+    color: black;
+    text-align: center;
+}
+.blog{
+    margin-top: 70px;
+    margin-left: 180px;
+    margin-bottom: 5px;
+}
+.button-link{
+    background-color: #dc3545;
+    color: cornsilk;
+    margin-right: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.button-link-1{
+    
+    background-color: #dc3545;
+    color: cornsilk;
+    padding: 10px 22px 10px 22px;
+    border-radius: 5px;
+}

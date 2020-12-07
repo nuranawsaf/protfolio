@@ -1,0 +1,41 @@
+.size {
+    height: 100%;
+    width: 100%;
+}
+.style{
+    margin-top: -650px;
+    margin-left: 100px;
+}
+.style-1{
+    font-size: 65px;
+}
+
+.icons {
+    font-size: 23px;
+}
+.icon-1{
+    
+    border: 2px solid rgb(120, 178, 253);
+    border-radius: 5px;
+    padding: 8px 18px;
+}.icon-2{
+    margin-left: 40px;
+    border: 2px solid brown;
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+.icon-3{
+    margin-left: 40px;
+    border: 2px solid orangered;
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+.fa-facebook-f{
+    color: rgb(120, 178, 253);
+}
+.fa-instagram{
+    color: brown;
+}
+.fa-linkedin-in{
+    color: orangered;
+}
